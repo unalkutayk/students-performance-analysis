@@ -28,7 +28,7 @@ students-performance-analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/students-performance-analysis.git
+   git clone https://github.com/unalkutayk/students-performance-analysis.git
    cd students-performance-analysis
    ```
 
